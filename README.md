@@ -7,7 +7,7 @@ Hadi Fanaee-T at the University of Porto compiled this data into a CSV file, whi
 
 Here are the descriptions for the relevant columns:
 
-`instant` - A unique sequential ID number for each row 
+`instant` - A unique sequential ID number for each row .  
 `dteday` - The date of the rentals  
 `season` - The season in which the rentals occurred 
 `yr` - The year the rentals occurred    
