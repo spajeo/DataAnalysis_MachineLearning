@@ -11,12 +11,12 @@ Here are the descriptions for the relevant columns:
 `dteday` - The date of the rentals   
 `season` - The season in which the rentals occurred  
 `yr` - The year the rentals occurred     
-`mnth` - The month the rentals occurred . 
-`hr` - The hour the rentals occurred 
-`holiday` - Whether or not the day was a holiday
-`weekday` - The day of the week (as a number, 0 to 7)
-`workingday` - Whether or not the day was a working day
-`weathersit` - The weather (as a categorical variable)
+`mnth` - The month the rentals occurred   
+`hr` - The hour the rentals occurred   
+`holiday` - Whether or not the day was a holiday  
+`weekday` - The day of the week (as a number, 0 to 7)  
+`workingday` - Whether or not the day was a working day  
+`weathersit` - The weather (as a categorical variable)  
 `temp` - The temperature, on a 0-1 scale
 `atemp` - The adjusted temperature
 `hum` - The humidity, on a 0-1 scale
