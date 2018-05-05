@@ -7,12 +7,12 @@ Hadi Fanaee-T at the University of Porto compiled this data into a CSV file, whi
 
 Here are the descriptions for the relevant columns:
 
-`instant` - A unique sequential ID number for each row .  
-`dteday` - The date of the rentals  
-`season` - The season in which the rentals occurred 
-`yr` - The year the rentals occurred    
+`instant` - A unique sequential ID number for each row    
+`dteday` - The date of the rentals   
+`season` - The season in which the rentals occurred  
+`yr` - The year the rentals occurred     
 `mnth` - The month the rentals occurred . 
-`hr` - The hour the rentals occurred
+`hr` - The hour the rentals occurred 
 `holiday` - Whether or not the day was a holiday
 `weekday` - The day of the week (as a number, 0 to 7)
 `workingday` - Whether or not the day was a working day
