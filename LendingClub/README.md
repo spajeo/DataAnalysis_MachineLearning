@@ -41,7 +41,7 @@ which contains a link to each loan on Lending Club which can only be accessed wi
 removing all columns containing more than 50% missing values:
 which allows us to move faster since we can spend less time trying to fill these values
 
-## Features
+## Data Dictionnary Features
 
 acc_now_delinq	The number of accounts on which the borrower is now delinquent.
 acc_open_past_24mths	Number of trades opened in past 24 months.
