@@ -14,7 +14,7 @@ In this mission, we'll focus on approved loans data from 2007 to 2011, since a g
 
 ## Data Dictionnary Features
 
-You'll also find a data dictionary (in XLS format) which contains information on the different column names towards the bottom of the page. We recommend downloading the data dictionary to so you can refer to it whenever you want to learn more about what a column represents in the datasets. Here's a link to the data dictionary file hosted on [Google Drive].(https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit)
+You'll also find a data dictionary (in XLS format) which contains information on the different column names towards the bottom of the page. We recommend downloading the data dictionary to so you can refer to it whenever you want to learn more about what a column represents in the datasets. Here's a link to the data dictionary file hosted on [Google Drive](https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit).
 
 acc_now_delinq	The number of accounts on which the borrower is now delinquent.
 acc_open_past_24mths	Number of trades opened in past 24 months.
