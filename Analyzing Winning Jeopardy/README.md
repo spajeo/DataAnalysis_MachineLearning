@@ -13,3 +13,27 @@ As you can see, each row in the dataset represents a single question on a single
 `Value` -- the number of dollars answering the question correctly is worth.    
 `Question` -- the text of the question.    
 `Answer` -- the text of the answer.    
+
+
+In order to figure out whether to study past questions, study general knowledge, or not study it all, it would be helpful to figure out two things:
+
+How often the answer is deducible from the question.
+How often new questions are repeats of older questions.
+You can answer the second question by seeing how often complex words (> 6 characters) reoccur. You can answer the first question by seeing how many times words in the answer also occur in the question. We'll work on the first question now, and come back to the second.
+
+That's it for the guided steps! We recommend exploring the data more on your own.
+
+Here are some potential next steps:
+
+Find a better way to eliminate non-informative words than just removing words that are less than 6 characters long. Some ideas:
+Manually create a list of words to remove, like the, than, etc.
+Find a list of stopwords to remove.
+Remove words that occur in more than a certain percentage (like 5%) of questions.
+Perform the chi-squared test across more terms to see what terms have larger differences. This is hard to do currently because the code is slow, but here are some ideas:
+Use the apply method to make the code that calculates frequencies more efficient.
+Only select terms that have high frequencies across the dataset, and ignore the others.
+Look more into the Category column and see if any interesting analysis can be done with it. Some ideas:
+See which categories appear the most often.
+Find the probability of each category appearing in each round.
+Use the whole Jeopardy dataset (available here) instead of the subset we used in this mission.
+Use phrases instead of single words when seeing if there's overlap between questions. Single words don't capture the whole context of the question well.
