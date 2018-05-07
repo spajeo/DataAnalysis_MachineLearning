@@ -1,18 +1,17 @@
    
 # Winning Jeopardy
 
-Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.
 
-As you can see, each row in the dataset represents a single question on a single episode of Jeopardy.
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.Let's say you want to compete on Jeopardy, and you're looking for any edge you can get to win. In this project, I'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help win.
 
 Let's find out :
 
 * How often the answer is deducible from the question.
 * How often new questions are repeats of older questions.
 
-### Dataset informations
+### [Dataset informations](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
 
-[To dl the file.](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+Each row in the dataset represents a single question on a single episode of Jeopardy.
 
 `Show Number` -- the Jeopardy episode number of the show this question was in.   
 `Air Date` -- the date the episode aired.   
@@ -25,7 +24,7 @@ Let's find out :
 
 In order to figure out whether to study past questions, study general knowledge, or not study it all, it would be helpful to figure out two things:
 
-### potential next steps:
+### Potential next steps:
 
 * Find a better way to eliminate non-informative words than just removing words that are less than 6 characters long.
 * Manually create a list of words to remove, like the, than, etc.
