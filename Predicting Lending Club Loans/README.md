@@ -1,47 +1,20 @@
-Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. You can read more about their marketplace here.
-Most investors use a portfolio strategy to invest small amounts in many loans, with healthy mixes of low, medium, and interest loans. In this course, we'll focus on the mindset of a conservative investor who only wants to invest in the loans that have a good chance of being paid off on time. To do that, we'll need to first understand the features in the dataset and then experiment with building machine learning models that reliably predict if a loan will be paid off or not.
+
+# A conservative investor's predictions
+
+**Lending Club** is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
+
+Most investors use a portfolio strategy to invest small amounts in many loans, with healthy mixes of low, medium, and interest loans. We'll focus on the mindset of a **conservative investor** who only wants to invest in the loans that have a good chance of being paid off on time. 
+
+To do that, we'll need to first understand the features in the dataset and then experiment with building machine learning models that reliably predict if a loan will be paid off or not.
+
+## Dataset
 
 Lending Club releases data for all of the approved and declined loan applications periodically on their website. You can select a few different year ranges to download the datasets (in CSV format) for both approved and declined loans.
-
-You'll also find a data dictionary (in XLS format) which contains information on the different column names towards the bottom of the page. We recommend downloading the data dictionary to so you can refer to it whenever you want to learn more about what a column represents in the datasets. Here's a link to the data dictionary file hosted on Google Drive.
-
-Before diving into the datasets themselves, let's get familiar with the data dictionary. The LoanStats sheet describes the approved loans datasets and the RejectStats describes the rejected loans datasets. Since rejected applications don't appear on the Lending Club marketplace and aren't available for investment, we'll be focusing on data on approved loans only.
-
-The approved loans datasets contain information on current loans, completed loans, and defaulted loans. Let's now define the problem statement for this machine learning project:
-
-Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?
-Before we can start doing machine learning, we need to define what features we want to use and which column repesents the target column we want to predict. Let's start by reading in the dataset and exploring it.
-
-Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?
-
-
-
-
-You'll also find a data dictionary (in XLS format) which contains information on the different column names towards the bottom of the page. We recommend downloading the data dictionary to so you can refer to it whenever you want to learn more about what a column represents in the datasets. Here's a link to the data dictionary file hosted on Google Drive. https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit
-
-Before diving into the datasets themselves, let's get familiar with the data dictionary. The LoanStats sheet describes the approved loans datasets and the RejectStats describes the rejected loans datasets. Since rejected applications don't appear on the Lending Club marketplace and aren't available for investment, we'll be focusing on data on approved loans only.
-
-
-## Cleaning
-
-Before we can start doing machine learning, we need to define what features we want to use and which column repesents the target column we want to predict. Let's start by reading in the dataset and exploring it.
-
-
-
 In this mission, we'll focus on approved loans data from 2007 to 2011, since a good number of the loans have already finished. In the datasets for later years, many of the loans are current and still being paid off.
 
-To ensure that code runs fast on our platform, we reduced the size of LoanStats3a.csv by:
-
-removing the first line:
-because it contains the extraneous text Notes offered by Prospectus (https://www.lendingclub.com/info/prospectus.action) instead of the column titles, which prevents the dataset from being parsed by the pandas library properly
-removing the desc column:
-which contains a long text explanation for each loan
-removing the url column:
-which contains a link to each loan on Lending Club which can only be accessed with an investor account
-removing all columns containing more than 50% missing values:
-which allows us to move faster since we can spend less time trying to fill these values
-
 ## Data Dictionnary Features
+
+You'll also find a data dictionary (in XLS format) which contains information on the different column names towards the bottom of the page. We recommend downloading the data dictionary to so you can refer to it whenever you want to learn more about what a column represents in the datasets. Here's a link to the data dictionary file hosted on [Google Drive].(https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit)
 
 acc_now_delinq	The number of accounts on which the borrower is now delinquent.
 acc_open_past_24mths	Number of trades opened in past 24 months.
@@ -159,3 +132,9 @@ url	URL for the LC page with listing data.
 verification_status	Indicates if income was verified by LC, not verified, or if the income source was verified
 verified_status_joint	Indicates if the co-borrowers' joint income was verified by LC, not verified, or if the income source was verified
 zip_code	The first 3 numbers of the zip code provided by the borrower in the loan application.
+
+
+## Cleaning 
+
+Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?
+Before we can start doing machine learning, we need to define what features we want to use and which column repesents the target column we want to predict. Let's start by reading in the dataset and exploring it.
