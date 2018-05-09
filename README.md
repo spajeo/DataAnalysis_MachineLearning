@@ -8,9 +8,6 @@ Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rot
 [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
 
 
-### [Exploring Gun Deaths in the US](https://github.com/spajeo/DataAnalysis_MachineLearning/blob/master/Exploring%20Gun%20Deaths%20in%20the%20US/README.md)
-
-In this project, I'll explore the data, and try to find interesting patterns.
 
 ### [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)
 In this project, I'll explore the data, and try to find interesting patterns.
@@ -20,6 +17,10 @@ In this project, I'll explore the data, and try to find interesting patterns.
 
 ### [Analyzing Winning Jeopardy](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Winning%20Jeopardy)  
 Let's say you want to compete on Jeopardy, and you're looking for any edge you can get to win. In this project, I'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help win.
+
+### [Exploring Gun Deaths in the US](https://github.com/spajeo/DataAnalysis_MachineLearning/blob/master/Exploring%20Gun%20Deaths%20in%20the%20US/README.md)
+
+In this project, I'll explore the data, and try to find interesting patterns.
 
 
 ### [Predicting Bike Rentals](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Bike%20Rentals) 
