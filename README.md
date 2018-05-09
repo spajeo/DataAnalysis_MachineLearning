@@ -2,7 +2,12 @@
 
 ### [Analyzing Gender Gap In College Degrees](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Gender%20Gap%20In%20College%20Degrees)
 ### [Analyzing Movie Reviews](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Movie%20Reviews)  
-### [Analyzing Star Wars Survey](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Star%20Wars%20Survey)  
+### [Analyzing Star Wars Survey](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Star%20Wars%20Survey)   
+[FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) wondered: **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
+
+The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses, which you download from their [GitHub repository](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).
+
+
 ### [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner) . 
 ### [Analyzing Winning Jeopardy](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Winning%20Jeopardy)  
 Let's say you want to compete on Jeopardy, and you're looking for any edge you can get to win. In this project, I'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help win.
