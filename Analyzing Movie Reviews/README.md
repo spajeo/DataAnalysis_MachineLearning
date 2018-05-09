@@ -1,7 +1,6 @@
 
 # Movie Reviews
-Is there a bias amoungs the movie review sites (**RottenTomatoes**, **Metacritic**, **IMDB**, and **Fandango**). Each of these sites has 2 types of score -- User scores, which aggregate user reviews, and Critic score, which aggregate professional critical reviews of the movie. Each service puts their ratings on a different scale:
-
+Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rottentomatoes.com/), [**Metacritic**](http://www.metacritic.com/), [**IMDB**](https://www.imdb.com/), and [**Fandango**](https://www.fandango.com/)) ? 
 
 # Sources
 
