@@ -1,6 +1,12 @@
 # DataAnalysis
 
 ### [Analyzing Gender Gap In College Degrees](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Gender%20Gap%20In%20College%20Degrees)
+
+
+
+
+
+
 ### [Analyzing Movie Reviews](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Movie%20Reviews) 
 Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rottentomatoes.com/), [**Metacritic**](http://www.metacritic.com/), [**IMDB**](https://www.imdb.com/), and [**Fandango**](https://www.fandango.com/))? 
 
@@ -8,11 +14,8 @@ Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rot
 [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
 
 
-
 ### [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)
 In this project, I'll explore the data, and try to find interesting patterns.
-
-
 
 
 ### [Analyzing Winning Jeopardy](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Winning%20Jeopardy)  
@@ -27,4 +30,6 @@ In this project, I'll explore the data, and try to find interesting patterns.
 Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. The District collects detailed data on the number of bicycles people rent by the hour and day. I am going predict user beahavior depending on other parameters.   
 ### [Predicting Lending Club Loans](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Lending%20Club%20Loans)
 I am using a machine learning model to predict whether or not we should fund a loan on the Lending Club platform.   
-### [Visualizing Earnings Based On College Majors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors)   
+### [Visualizing Earnings Based On College Majors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors) 
+
+I'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. Using visualizations, we can start to explore questions
