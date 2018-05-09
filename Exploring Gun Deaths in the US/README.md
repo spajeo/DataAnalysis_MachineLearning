@@ -39,10 +39,11 @@ As you can see above, the first row of the data is a header row, which tells you
 5 -- Not available  
 
 
-### Further
+### Going further
 
-Determing wheter there's a correlation between class size and SAT scores
-Figuring out which neighborhoods have the best schools
-If we combine this information with a dataset containing property values, we could find the least expensive neighborhoods that have good schools.
-Investigating the differences between parent, teacher, and student responses to surveys.
-Assigning scores to schools based on sat_score and other attributes.
+Here are some potential next steps:
+
+* Figure out the link, if any, between month and homicide rate.
+* Explore the homicide rate by gender.
+* Explore the rates of other intents, like Accidental, by gender and race.
+* Find out if gun death rates correlate to location and education.
