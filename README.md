@@ -1,6 +1,9 @@
 # DataAnalysis
 
 ### [Analyzing Gender Gap In College Degrees](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Gender%20Gap%20In%20College%20Degrees)
+
+I'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. Using visualizations.
+
 ### [Analyzing Movie Reviews](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Movie%20Reviews) 
 Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rottentomatoes.com/), [**Metacritic**](http://www.metacritic.com/), [**IMDB**](https://www.imdb.com/), and [**Fandango**](https://www.fandango.com/))? 
 
@@ -8,11 +11,8 @@ Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rot
 [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
 
 
-
 ### [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)
 In this project, I'll explore the data, and try to find interesting patterns.
-
-
 
 
 ### [Analyzing Winning Jeopardy](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Winning%20Jeopardy)  
