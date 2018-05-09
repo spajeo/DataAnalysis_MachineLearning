@@ -1,7 +1,9 @@
 # DataAnalysis
 
 ### [Analyzing Gender Gap In College Degrees](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Gender%20Gap%20In%20College%20Degrees)
-### [Analyzing Movie Reviews](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Movie%20Reviews)  
+### [Analyzing Movie Reviews](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Movie%20Reviews) 
+Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rottentomatoes.com/), [**Metacritic**](http://www.metacritic.com/), [**IMDB**](https://www.imdb.com/), and [**Fandango**](https://www.fandango.com/))? 
+
 ### [Analyzing Star Wars Survey](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Star%20Wars%20Survey)   
 [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) wondered: **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
 
