@@ -25,3 +25,11 @@ education -- educational status of the victim. Can be one of the following:
 4 -- At least graduated from College
 5 -- Not available
 In this project, we'll explore the dataset, and try to find patterns in the demographics of the victims. Our first step is to read the data in and take a look at it.
+
+### Further
+
+Determing wheter there's a correlation between class size and SAT scores
+Figuring out which neighborhoods have the best schools
+If we combine this information with a dataset containing property values, we could find the least expensive neighborhoods that have good schools.
+Investigating the differences between parent, teacher, and student responses to surveys.
+Assigning scores to schools based on sat_score and other attributes.
