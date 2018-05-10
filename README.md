@@ -26,7 +26,6 @@ In this project, I'll explore the data, and try to find interesting patterns.
 Let's say you want to compete on Jeopardy, and you're looking for any edge you can get to win. In this project, I'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help win.
 
 * [Exploring Gun Deaths in the US](https://github.com/spajeo/DataAnalysis_MachineLearning/blob/master/Exploring%20Gun%20Deaths%20in%20the%20US/README.md)   
-
 In this project, I'll explore the data, and try to find interesting patterns.
 
 # Machine Learning
