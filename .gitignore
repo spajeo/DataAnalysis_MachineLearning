@@ -1,6 +1,6 @@
 #Jupyter
 */Basics-checkpoint.ipynb
-*/.ipynb_checkpoints
+*/.ipynb_checkpoints/
 .DS_Store
 
 */_config.yml
