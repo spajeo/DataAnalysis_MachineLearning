@@ -34,4 +34,7 @@ Washington, D.C. is one of the cities having communal bike sharing stations wher
 * [Predicting Lending Club Loans](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Lending%20Club%20Loans)   
 I am using a machine learning model to predict whether or not we should fund a loan on the Lending Club platform.
 
+* [Predicting house sales prices](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20house%20sales%20prices)  
+
+* [Predicting the stock market](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20the%20stock%20market)  
 
