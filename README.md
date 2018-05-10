@@ -1,5 +1,7 @@
 # DataAnalysis
 
+* [Visualizing Earnings Based On College Majors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors) 
+
 * [Analyzing Gender Gap In College Degrees](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Gender%20Gap%20In%20College%20Degrees)
 ### [Exploring Gun Deaths in the US](https://github.com/spajeo/DataAnalysis_MachineLearning/blob/master/Exploring%20Gun%20Deaths%20in%20the%20US/README.md)
 
@@ -39,7 +41,6 @@ In this project, I'll explore the data, and try to find interesting patterns.
 Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. The District collects detailed data on the number of bicycles people rent by the hour and day. I am going predict user beahavior depending on other parameters.   
 * [Predicting Lending Club Loans](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Lending%20Club%20Loans)
 I am using a machine learning model to predict whether or not we should fund a loan on the Lending Club platform.   
-* [Visualizing Earnings Based On College Majors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Visualizing%20Earnings%20Based%20On%20College%20Majors) 
 
 ### [Predicting Bike Rentals](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Bike%20Rentals) 
 Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. The District collects detailed data on the number of bicycles people rent by the hour and day. I am going predict user beahavior depending on other parameters. 
