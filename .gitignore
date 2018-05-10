@@ -1,2 +1,7 @@
 #Jupyter
 */Basics-checkpoint.ipynb
+*/.ipynb_checkpoints
+.DS_Store
+
+*/_config.yml
+data
