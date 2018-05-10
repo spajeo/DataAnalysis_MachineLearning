@@ -17,7 +17,7 @@ Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rot
 [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
 
 
-* [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)
+* [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)   
 In this project, I'll explore the data, and try to find interesting patterns.
 
 
