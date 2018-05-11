@@ -7,6 +7,10 @@ The project is about predicting which passengers survived the sinking of the Tit
 
 You can find it on [Kaggle](https://www.kaggle.com/c/titanic/data).
 
+
+## Accuracy measure 
+[percentage of passengers correctly predicted](https://www.kaggle.com/c/titanic#evaluation)
+
 ## Data Dictionnary
 
 `PassengerID` - A column added by Kaggle to identify each row and make submissions easier  
