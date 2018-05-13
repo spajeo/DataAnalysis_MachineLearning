@@ -20,3 +20,5 @@ You can find it on [Kaggle](https://www.kaggle.com/c/titanic/data).
 `Fare` - The fare the passenger paid  
 `Cabin` - The passenger's cabin number  
 `Embarked` - The port where the passenger embarked (C=Cherbourg, Q=Queenstown, S=Southampton)  
+
+## Results
