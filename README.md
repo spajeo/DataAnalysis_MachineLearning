@@ -1,7 +1,9 @@
 # Kaggle
 
 
-* [Kaggle Workflow on Titanics Survivors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Kaggle%20Workflow%20on%20Titanics%20Survivors)
+* [Kaggle Workflow on Titanics Survivors](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Kaggle%20Workflow%20on%20Titanics%20Survivors)   
+The project is about predicting which passengers survived the sinking of the Titanic. 
+
 
 # DataAnalysis
 
