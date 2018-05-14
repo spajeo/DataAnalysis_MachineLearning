@@ -36,7 +36,7 @@ In this project, I'll explore the data, and try to find interesting patterns.
 
 # Machine Learning
 
-* [Predict Sentiments on Movies Feedbacks]
+* [Predict Sentiments on Movies Feedbacks](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Sentiment%20on%20Movies%20Feedbacks)
 
 * [Predicting Bike Rentals](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Bike%20Rentals)   
 Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. The District collects detailed data on the number of bicycles people rent by the hour and day. I am going predict user beahavior depending on other parameters.
