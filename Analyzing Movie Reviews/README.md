@@ -13,8 +13,8 @@ Each row represents a single movie. Each column contains information about how t
 `RottenTomatoes` - 0-100, in increments of 1.   
 `Metacritic` - 0-100, in increments of 1.   
 `IMDB` - 0-10, in increments of .1.   
-`Fandango` - 0-5, in increments of .5.   
-Typically, the primary score shown by the sites will be the Critic score. Here are descriptions of some of the relevant 
+`Fandango` - 0-5, in increments of .5.     
+Typically, the primary score shown by the sites will be the Critic score. Here are descriptions of some of the relevant    
 `FILM` -- the name of the movie.   
 `RottenTomatoes` -- the RottenTomatoes (RT) critic score.   
 `RottenTomatoes_User` -- the RT user score.    
