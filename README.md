@@ -36,8 +36,7 @@ In this project, I'll explore the data, and try to find interesting patterns.
 
 # Machine Learning
 
-* [Predict Sentiments on Movies Feedbacks](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Sentiment%20on%20Movies%20Feedbacks)
-
+* [Predict Sentiments on Movies Feedbacks](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Sentiment%20on%20Movies%20Feedbacks)   
 I want to predict whether a review is negative or positive, based on the text alone.
 
 * [Predicting Bike Rentals](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Predicting%20Bike%20Rentals)   
