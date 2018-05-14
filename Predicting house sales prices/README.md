@@ -6,7 +6,7 @@ I'll work with housing data for the city of Ames, Iowa, United States from 2006 
 
 ## Source 
 
-You can read more about why the data was collected [here].(https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt) 
+You can read more about why the data was collected [here](https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt).
 
 
 ## Dataset 
