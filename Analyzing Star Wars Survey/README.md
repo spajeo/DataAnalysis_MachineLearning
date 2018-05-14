@@ -22,8 +22,7 @@ The data has several columns, including:
 
 The columns for this question are:
 
-* `Which of the following Star Wars films have you seen? Please select all that apply. - Whether or not the respondent saw Star Wars:
-  *   Episode I The Phantom Menace.`    
+  * `Which of the following Star Wars films have you seen? Please select all that apply. - Whether or not the respondent saw Star Wars:  Episode I The Phantom Menace.`    
   *   `Unnamed: 4` - Whether or not the respondent saw Star Wars: Episode II Attack of the Clones.    
   * `Unnamed: 5` - Whether or not the respondent saw Star Wars: Episode III Revenge of the Sith.    
   * `Unnamed: 6` - Whether or not the respondent saw Star Wars: Episode IV A New Hope.    
