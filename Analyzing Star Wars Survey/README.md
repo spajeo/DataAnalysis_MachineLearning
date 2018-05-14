@@ -22,15 +22,20 @@ The data has several columns, including:
 
 The columns for this question are:
 
-`Which of the following Star Wars films have you seen? Please select all that apply. - Whether or not the respondent saw Star Wars: Episode I The Phantom Menace.`
-`Unnamed: 4` - Whether or not the respondent saw Star Wars: Episode II Attack of the Clones.    
-`Unnamed: 5` - Whether or not the respondent saw Star Wars: Episode III Revenge of the Sith.    
-`Unnamed: 6` - Whether or not the respondent saw Star Wars: Episode IV A New Hope.    
-`Unnamed: 7` - Whether or not the respondent saw Star Wars: Episode V The Empire Strikes Back.     
-`Unnamed: 8` - Whether or not the respondent saw Star Wars: Episode VI Return of the Jedi.    
+* `Which of the following Star Wars films have you seen? Please select all that apply. - Whether or not the respondent saw Star Wars:
+  *   Episode I The Phantom Menace.`    
+* `Unnamed: 4` - Whether or not the respondent saw Star Wars: Episode II Attack of the Clones.    
+* `Unnamed: 5` - Whether or not the respondent saw Star Wars: Episode III Revenge of the Sith.    
+* `Unnamed: 6` - Whether or not the respondent saw Star Wars: Episode IV A New Hope.    
+* `Unnamed: 7` - Whether or not the respondent saw Star Wars: Episode V The Empire Strikes Back.     
+* `Unnamed: 8` - Whether or not the respondent saw Star Wars: Episode VI Return of the Jedi.    
 
-`Please rank the Star Wars films in order of preference with 1 being your favorite film in the franchise and 6 being your least favorite film.` - How much the respondent 
-        * liked Star Wars: Episode I The Phantom Menace    
+* The next six columns represent a single checkbox question. The respondent checked off a series of boxes in response to the question, `Which of the following Star Wars films have you seen? Please select all that apply`. 
+
+The columns for this question are:
+
+`Please rank the Star Wars films in order of preference with 1 being your favorite film in the franchise and 6 being your least favorite film. - How much the respondent    
+        *     liked Star Wars: Episode I The Phantom Menace`    
 * `Unnamed: 10` - How much the respondent liked Star Wars: Episode II Attack of the Clones    
 * `Unnamed: 11` - How much the respondent liked Star Wars: Episode III Revenge of the Sith   
 * `Unnamed: 12` - How much the respondent liked Star Wars: Episode IV A New Hope   
