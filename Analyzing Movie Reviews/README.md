@@ -10,18 +10,18 @@ The dataset is stored in the fandango_score_comparison.csv file. It contains inf
 
 Each row represents a single movie. Each column contains information about how the online moview review services RottenTomatoes, Metacritic, IMDB, and Fandango rated the movie. The dataset was put together to help detect bias in the movie review sites. Each of these sites has 2 types of score -- User scores, which aggregate user reviews, and Critic score, which aggregate professional critical reviews of the movie. Each service puts their ratings on a different scale:
 
-`RottenTomatoes` - 0-100, in increments of 1.
-`Metacritic` - 0-100, in increments of 1.
-`IMDB` - 0-10, in increments of .1.
-`Fandango` - 0-5, in increments of .5.
+`RottenTomatoes` - 0-100, in increments of 1.   
+`Metacritic` - 0-100, in increments of 1.   
+`IMDB` - 0-10, in increments of .1.   
+`Fandango` - 0-5, in increments of .5.   
 Typically, the primary score shown by the sites will be the Critic score. Here are descriptions of some of the relevant 
-`FILM` -- the name of the movie.
-`RottenTomatoes` -- the RottenTomatoes (RT) critic score.
-`RottenTomatoes_User` -- the RT user score.
-`Metacritic` -- the Metacritic critic score.
-`Metacritic_User` -- the Metacritic user score.
-`IMDB` -- the IMDB score given to the movie.
-`Fandango_Stars` -- the number of stars Fandango gave the movie.
+`FILM` -- the name of the movie.   
+`RottenTomatoes` -- the RottenTomatoes (RT) critic score.   
+`RottenTomatoes_User` -- the RT user score.    
+`Metacritic` -- the Metacritic critic score.    
+`Metacritic_User` -- the Metacritic user score.    
+`IMDB` -- the IMDB score given to the movie.    
+`Fandango_Stars` -- the number of stars Fandango gave the movie.    
 
 # Here are some potential next steps:
 
