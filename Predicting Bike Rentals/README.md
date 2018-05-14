@@ -1,11 +1,16 @@
 # DataAnalysis
 
-**Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. . The District collects detailed data on the number of bicycles people rent by the hour and day.
-Hadi Fanaee-T at the University of Porto compiled this data into a CSV file, which you'll be working with in this project. The file contains 17380 rows, with each row representing the number of bike rentals for a single hour of a single day. You can download the data from the University of California, Irvine's website.**
 
-Here are the descriptions for the relevant columns:
+## Sources 
 
-`instant` - A unique sequential ID number for each row       
+Washington, D.C. is one of the cities having communal bike sharing stations where you can rent bicycles by the hour or day. . The District collects detailed data on the number of bicycles people rent by the hour and day.
+Hadi Fanaee-T at the University of Porto compiled this data into a CSV file, which I'll be working with in this project. You can download the data from the University of California, Irvine's [website]().
+
+## Dataset
+
+The file contains 17380 rows, with each row representing the number of bike rentals for a single hour of a single day. 
+
+`instant` - A unique sequential ID number for each row            
 `dteday` - The date of the rentals   
 `season` - The season in which the rentals occurred  
 `yr` - The year the rentals occurred     
