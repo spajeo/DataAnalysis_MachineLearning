@@ -21,7 +21,7 @@ I'll extend the work on [visualizing the gender gap across college degrees](http
 Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rottentomatoes.com/), [**Metacritic**](http://www.metacritic.com/), [**IMDB**](https://www.imdb.com/), and [**Fandango**](https://www.fandango.com/))?
 
 * [Analyzing Star Wars Survey](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Star%20Wars%20Survey)   
-[FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : **does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
+[FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) managed to survey  835 people in order to reply to the question : does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?
 
 
 * [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)   
