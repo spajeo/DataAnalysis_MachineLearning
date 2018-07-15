@@ -27,6 +27,11 @@ Is there a bias amoungs the movie review sites ([**RottenTomatoes**](https://rot
 * [Analyzing Thanksgiving Dinner](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Thanksgiving%20Dinner)   
 In this project, I'll explore the data, and try to find interesting patterns.
 
+* [Analyzing 2014 World Cup Forecasts and Scores] ()
+Understand the number of goals scored for each team participating in the world cup
+source https://www.kaggle.com/fivethirtyeight/world-cup#scores.csv
+
+
 
 * [Analyzing Winning Jeopardy](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/Analyzing%20Winning%20Jeopardy)   
 Let's say you want to compete on Jeopardy, and you're looking for any edge you can get to win. In this project, I'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help win.
