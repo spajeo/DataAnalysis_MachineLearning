@@ -1,8 +1,7 @@
-# tidy-dataset
-Example of datasets tidying
+# Survey Questionnary
 
-### [Questionnary](https://github.com/spajeo/tidy-dataset/tree/master/questionnary)
-* Difficulty
+Here are the files difficulties :
+
   * Multiple occurences per user
   * One row per response
   * Multiple answers questions
