@@ -1,6 +1,6 @@
 # Tidying datas
 
-* [Survey Questionnary](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/questionnary)
+* [Survey Questionnary](https://github.com/spajeo/DataAnalysis_MachineLearning/tree/master/questionnary)   
 Organize a questionnary in order to be able to interpret datas further on.
 
 # Kaggle
